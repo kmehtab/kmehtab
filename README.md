@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmehtab
+- 👋 Hi, I’m Mehtab Khan - aka @kmehtab
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning Java script and Reactjs
 - 💞️ I’m looking to collaborate on ...
