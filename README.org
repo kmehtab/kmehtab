@@ -7,4 +7,5 @@
 - 💞  I’m looking to collaborate on ...
 
 * 📫 How to reach me
-#+html: <a href="https://twitter.com/kmehtab20"><img src="https://img.shields.io/twitter/follow/kmehtab20?style=for-the-badge&logoColor=white"></a>
+#+html: <a href="https://twitter.com/kmehtab20"><img alt="Twitter followers"src="https://img.shields.io/twitter/follow/kmehtab20?style=social"></a>
+#+html: <a href="https://github.com/kmehtab"><img alt="GitHub followers" src="https://img.shields.io/github/followers/kmehtab?style=social"></a>
