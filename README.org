@@ -1,0 +1,10 @@
+#+title: Readme
+#+author: kmehtab
+#+date: 2021-08-15
+* 👋 Hi, I’m Mehtab Khan - aka [[https://www.instagram.com/kmehtab20/][@kmehtab]]
+- 👀 I’m interested in fullstack web development
+- 🌱 I’m currently learning Javascript and Reactjs
+- 💞  I’m looking to collaborate on ...
+
+* 📫 How to reach me
+#+html: <a href="https://twitter.com/kmehtab20"><img src="https://img.shields.io/twitter/follow/kmehtab20?style=for-the-badge&logoColor=white"></a>
