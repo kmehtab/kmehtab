@@ -8,8 +8,7 @@
 
 * My github stats
 ![Kmehtab's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmehtab&show_icons=true&theme=gruvbox)
-[[https://github-readme-stats.vercel.app/api.svg?username=kmehtab][https://github.com/kmehtab]]
-
+[[https://github-readme-stats.vercel.app/api.svg?username=kmehtab][https://github.com/anuraghazra/github-readme-stats]]
 
 * 📫 How to reach me
 #+html: <a href="https://twitter.com/kmehtab20"><img alt="Twitter followers"src="https://img.shields.io/twitter/follow/kmehtab20?style=social"></a>
